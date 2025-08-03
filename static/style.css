@@ -149,39 +149,5 @@ input[type="file"] {
   background: #003300;
   border-color: #004d40;
 }
-@media (max-width: 600px) {
-  .container {
-    padding: 1rem;
-    border-radius: 10px;
-  }
-
-  .ai-button {
-    font-size: 16px;
-    padding: 10px 20px;
-  }
-
-  h1 {
-    font-size: 1.5rem;
-  }
-    header {
-        padding: 0.8rem 1rem;
-        width: 100%;
-    }
-
-    header h1 {
-        font-size: 1.2rem;
-    }
-
-    header ul {
-        gap: 1rem;
-    }
-
-    header li {
-        font-size: 0.9rem;
-        padding: 8px 10px;
-    }
-
-
-}
 
 

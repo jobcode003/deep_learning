@@ -18,3 +18,5 @@ def process(image_path):
 image__path='C:\\Users\\PC\\Desktop\\computer_vision\\crop_images\\Potato___Early_blight\\image (296).jpg'
 predicted_class, confidence = process(image__path)
 print(f"Predicted: {predicted_class} ({confidence}% confidence)")
+if predicted_class == 'Potato___Early_blight':
+    print("what courses it? ",'Common rust is caused by the fungus Puccinia sorghi and occurs every growing season')
